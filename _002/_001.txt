@@ -1,0 +1,4 @@
+[0-9-AfA-F]
+
+Selects all numbers (0 through 9)
+Selects Capital A through F and common a through f
