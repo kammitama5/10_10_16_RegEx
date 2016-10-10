@@ -1,0 +1,4 @@
+[^(0-9)|^(-AfA-F)]
+
+Selects NOT all numbers (0 through 9)
+Selects NOT Capital A through F and common a through f
