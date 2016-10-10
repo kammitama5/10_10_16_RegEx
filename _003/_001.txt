@@ -1,0 +1,2 @@
+([0-9][0-9][/]?[0-9][0-9][/]?[0-9][0-9])
+trying to get a date to match exactly in RegEx
