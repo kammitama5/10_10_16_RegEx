@@ -1,0 +1,5 @@
+gray
+grey
+
+To select both examples:
+use gr[ea]\w+
